@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-- 📫 How to reach me:<br>
-     `Discord` - ryanjon2040#5319<br>
-     `Twitter` - [ryanjon2040](https://www.twitter.com/ryanjon2040)
-- 💬 Ask me about:<br>
-     `Voxel Engine` - [A plugin for Unreal Engine](https://discord.playvoxward.com)<br>
-     `Agora` - [Agora (real time strategy game)](https://forums.unrealengine.com/community/work-in-progress/1784564-patreon-live-agora-real-time-strategy-game-under-development)
-- 🔭 I’m currently working on:<br>
-      `Agora` - [Agora (real time strategy game)](https://forums.unrealengine.com/community/work-in-progress/1784564-patreon-live-agora-real-time-strategy-game-under-development)<br>
-      `UE4 Binary Builder` - [Build Installed version of Unreal Engine 4](https://github.com/ryanjon2040/UE4-Binary-Builder)
+- 📫 *How to reach me:*<br>
+     * **Discord**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ ryanjon2040#5319<br>
+     * **Mastodon**&nbsp;&nbsp;&nbsp;➡ [ryanjon2040](https://mastodon.gamedev.place/@ryanjon2040)<br>
+     * **Twitter**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ [ryanjon2040](https://www.twitter.com/ryanjon2040)
+- 💬 *Ask me about:*<br>
+     * **Voxel Engine**&nbsp;&nbsp;&nbsp;&nbsp;➡ [A plugin for Unreal Engine](https://discord.playvoxward.com)<br>
+     * **Agora**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➡ [Agora (real time strategy game)](https://forums.unrealengine.com/community/work-in-progress/1784564-patreon-live-agora-real-time-strategy-game-under-development)
       
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryanjon2040&theme=darkhub&title=Stars,Commit,Followers)](https://github.com/ryo-ma/github-profile-trophy)
 
