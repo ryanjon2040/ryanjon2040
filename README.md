@@ -1,3 +1,5 @@
+![Visitor Count](https://profile-counter.glitch.me/ryanjon2040/count.svg)
+
 ### Hi there 👋
 
 - 📫 *How to reach me:*<br>
